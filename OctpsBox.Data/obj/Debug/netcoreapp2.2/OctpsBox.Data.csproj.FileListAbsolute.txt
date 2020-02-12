@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\bin\Debug\netcoreapp2.2\OctpsBox.Data.deps.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\bin\Debug\netcoreapp2.2\OctpsBox.Data.runtimeconfig.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\bin\Debug\netcoreapp2.2\OctpsBox.Data.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\bin\Debug\netcoreapp2.2\OctpsBox.Data.dll
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\bin\Debug\netcoreapp2.2\OctpsBox.Data.pdb
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.dll
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.Data\obj\Debug\netcoreapp2.2\OctpsBox.Data.pdb

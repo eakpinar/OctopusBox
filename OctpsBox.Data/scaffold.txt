@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "server=localhost;port=3306;user=root;password=admin;database=tvigger_admin_v2" MySql.Data.EntityFrameworkCore -o Model -f

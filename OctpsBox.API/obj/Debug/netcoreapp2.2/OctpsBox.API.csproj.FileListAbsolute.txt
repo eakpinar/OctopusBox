@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.API.deps.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.API.runtimeconfig.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.API.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.API.dll
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.API.pdb
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.dll
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.pdb
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.Data.dll
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\bin\Debug\netcoreapp2.2\OctpsBox.Data.pdb
+C:\Users\Administrator\Desktop\OctpsBox\OctpsBox.API\obj\Debug\netcoreapp2.2\OctpsBox.API.csproj.CopyComplete
