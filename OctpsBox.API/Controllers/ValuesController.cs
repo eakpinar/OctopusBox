@@ -13,17 +13,17 @@ namespace OctpsBox.API.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        private readonly IGenericRepository<Kullanici> _userRepository;
+        private readonly IQueryRepository<Kullanici> _userQueryRepository;
 
         public ValuesController(IUnitOfWork uow)
         {
-            _userRepository = uow.GetRepository<Kullanici>();
+            _userQueryRepository = uow.GetQueryRepository<Kullanici>();
         }
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            var users = _userRepository.Get(x => x.Id != 0).ToList();
+            var users = _userQueryRepository.Get(x => x.Id != 0).ToList();
             string[] a = new string[users.Count];
             var index = 0;
             foreach (var item in users)
